@@ -5,7 +5,7 @@ This software project automates testing for Intrasoft's careers registration for
 
 "test-cases-intasoft-career-registration-form-2.xlsx" file contains details for the required test cases.
 
-In order to upload the necessary files, testUploadFile.pdf *(docx) *(txt), edit the right path to them from "seleniumPlayground⁩/src⁩/test⁩/java⁩/com⁩/⁨alex⁩/webdriver⁩/CONSTANTS.java" file 
+In order to upload the necessary for testing files into the program, testUploadFile.pdf *(docx) *(txt), edit the right path to them from "seleniumPlayground⁩/src⁩/test⁩/java⁩/com⁩/⁨alex⁩/webdriver⁩/CONSTANTS.java" file 
 
 
 Compile and Run:
