@@ -9,6 +9,7 @@ In order to upload the necessary for testing files into the program, testUploadF
 
 
 Compile and Run:
+
 -import the "seleniumPlayground" file into your IDE 
 
 or
